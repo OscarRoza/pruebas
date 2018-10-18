@@ -27,7 +27,7 @@ import java.util.*;
 
         //Informar de los datos animal1
           animal1.nace();
-          System.out.println("Me llamo " + animal1.getNombre() + " y tengo " + animal1.getEdad() + " anios");
+          System.out.println("mi nombre es " + animal1.getNombre() + " y tengo " + animal1.getEdad() + " anios");
 		}
 	}
   
